@@ -10,6 +10,8 @@ A powerful web application for training, analyzing, and deploying machine learni
 -   Load sample datasets (Titanic, Iris, Mushrooms)
 -   Persistent storage for future use
 -   Easy dataset selection and management
+![image](https://github.com/user-attachments/assets/a9ce0bd1-0700-4c28-bdab-80f4394307f6)
+
 
 ### 🎯 Model Training
 
@@ -21,6 +23,11 @@ A powerful web application for training, analyzing, and deploying machine learni
 -   Customizable model parameters
 -   Automatic model saving and versioning
 -   Performance metrics visualization
+![image](https://github.com/user-attachments/assets/4634f3c6-cf47-4ac9-874a-f54063dc94c9)
+
+![image](https://github.com/user-attachments/assets/261c2f20-43c9-411a-bff1-77774aa55695)
+
+![image](https://github.com/user-attachments/assets/d576c06c-09a8-4f31-9a16-1ffc0ea5f1a6)
 
 ### 🔮 Predictions
 
@@ -28,6 +35,10 @@ A powerful web application for training, analyzing, and deploying machine learni
 -   Download prediction results
 -   Batch prediction support
 -   Feature validation
+![image](https://github.com/user-attachments/assets/3947ae36-d9db-4827-bfbe-000a2daa35f0)
+
+![image](https://github.com/user-attachments/assets/6e7f6543-be1b-46da-a2d1-d833ba5038cd)
+
 
 ### 📈 Visualization & Analysis
 
@@ -40,6 +51,14 @@ A powerful web application for training, analyzing, and deploying machine learni
     -   Confusion matrices
 -   Statistical analysis
 -   Data quality monitoring
+![image](https://github.com/user-attachments/assets/12c54cfc-c7d7-4897-a38c-4d6817ac16ef)
+
+![image](https://github.com/user-attachments/assets/bd30be44-1267-4f4a-bf61-9644900c0efe)
+
+![image](https://github.com/user-attachments/assets/122144f1-7e7d-4fbc-82e8-603432fa7142)
+
+![image](https://github.com/user-attachments/assets/67a1f43b-7e64-4562-9529-86ddbb7b995b)
+
 
 ## 🛠️ Implementation
 
