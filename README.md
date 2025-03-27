@@ -1,4 +1,4 @@
-# 🚀 ML Explorer
+# 🚀 ModelForge – Where ML models are crafted.
 
 A powerful web application for training, analyzing, and deploying machine learning models with an intuitive user interface.
 
@@ -149,8 +149,3 @@ streamlit run app.py
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## 🙏 Acknowledgments
-
--   Built with ❤️ using Streamlit
--   Sample datasets from various sources
--   ML libraries and tools from the Python ecosystem
